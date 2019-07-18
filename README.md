@@ -8,6 +8,9 @@ Official repo for “VORNet: Spatio-temporally Consistent Video Inpainting for O
 
 ![visual_results](doc/visual_results.png)
 
+## Demo Videos
+Please see [YouTube](https://www.youtube.com/watch?v=h7Q5gLIM1JE&list=PL4gW82MfJoeDAJNonQRXS85ldFCGyww_7&index=8)
+
 ## SVOR Dataset and Result Videos
 
 Please see the [Google Drive](https://drive.google.com/drive/folders/13amF3QTEcE0IEo26Gc6annMQbKUGVPm0)
