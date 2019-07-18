@@ -1,6 +1,6 @@
 # VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal
 
-Official repo for “VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal, CVPRW 2019” [arxiv](https://arxiv.org/abs/1904.06726)
+Official repo for “VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal, Chang et al., CVPRW 2019” [arxiv](https://arxiv.org/abs/1904.06726)
 
 ![teaser](doc/teaser.png)
 
@@ -17,6 +17,7 @@ Please see the [Google Drive](https://drive.google.com/drive/folders/13amF3QTEcE
 * Zhe-Yu Liu
 
 Please cite our paper if you find it useful:
+```
 @inproceedings{chang2019vornet,
   title={VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal},
   author={Chang, Ya-Liang and Yu Liu, Zhe and Hsu, Winston},
@@ -24,3 +25,5 @@ Please cite our paper if you find it useful:
   pages={0--0},
   year={2019}
 }
+
+```
